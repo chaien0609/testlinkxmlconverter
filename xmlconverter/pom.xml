@@ -21,7 +21,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>jp.co.recomot.testlink.xmlconverter.Application</mainClass>
+							<mainClass>chaien0609.testlink.xmlconverter.Application</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>

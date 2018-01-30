@@ -1,4 +1,4 @@
-package jp.co.recomot.testlink.xmlconverter.model;
+package chaien0609.testlink.xmlconverter.model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package jp.co.recomot.testlink.xmlconverter.converter;
+package chaien0609.testlink.xmlconverter.converter;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -20,8 +20,8 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import jp.co.recomot.testlink.xmlconverter.model.TestCase;
-import jp.co.recomot.testlink.xmlconverter.model.TestSuite;
+import chaien0609.testlink.xmlconverter.model.TestCase;
+import chaien0609.testlink.xmlconverter.model.TestSuite;
 
 public class XMLConverter {
 

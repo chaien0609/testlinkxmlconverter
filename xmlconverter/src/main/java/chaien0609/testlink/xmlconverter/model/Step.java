@@ -1,4 +1,4 @@
-package jp.co.recomot.testlink.xmlconverter.model;
+package chaien0609.testlink.xmlconverter.model;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

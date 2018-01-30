@@ -1,6 +1,6 @@
-package jp.co.recomot.testlink.xmlconverter;
+package chaien0609.testlink.xmlconverter;
 
-import jp.co.recomot.testlink.xmlconverter.converter.XMLConverter;
+import chaien0609.testlink.xmlconverter.converter.XMLConverter;
 
 public class Application {
 
